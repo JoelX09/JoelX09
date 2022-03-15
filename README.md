@@ -25,8 +25,9 @@ me.say_hi()
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=111&logoColor=AAA&style=flat-square&link=)
 ![Java](https://img.shields.io/static/v1?logo=java&label=&message=Java&color=111&logoColor=AAA&style=flat-square)
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=111&logoColor=AAA&style=flat-square)
+![TypeScript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=111&logoColor=AAA&style=flat-square)
 ## Tools
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=111&logoColor=AAA&style=flat-square)
 ![MySQL](https://img.shields.io/static/v1?logo=mysql&label=&message=MySQL&color=111&logoColor=AAA&style=flat-square)
-## Learning
-![TypeScript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=111&logoColor=AAA&style=flat-square)
+<!-- ## Learning -->
+<!-- ![React JS](https://img.shields.io/static/v1?logo=reactjs&label=&message=ReactJs&color=111&logoColor=AAA&style=flat-square) -->
